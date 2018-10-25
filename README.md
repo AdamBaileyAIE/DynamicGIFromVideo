@@ -7,3 +7,5 @@ Standard Unity Video Player component with the output set to the emission channe
 Geometry is lightmap static and Realtime GI information is baked.
 
 A second bit of code is used to tell the screens material to update its GI contribution every frame.
+
+Built in Unity 2017.3.0f3
