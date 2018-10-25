@@ -1,6 +1,6 @@
 # DynamicGIFromVideo
 
-Requires you to provide your own video file.
+Requires you to provide your own video file - Just plug it into the Video Player on the screen gameobject and you're good to go.
 
 Standard Unity Video Player component with the output set to the emission channel of a screen plane.
 
